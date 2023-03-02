@@ -1,6 +1,6 @@
-This proj is for Reproducible Research
+This proj is for Reproducible Research in WU
 
-Team members are:
+Team members:
 Yiqing Hu,Ting Wei, Xinchen Yang and Ludi Feng
 
-Team leader is Ting Wei
+Team leader: Ting Wei
