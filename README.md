@@ -1,7 +1,9 @@
-This proj is for Reproducible Research in WU
+This proj is for Reproducible Research
 
-Team members:
-Yiqing Hu,Ting Wei, Xinchen Yang and Ludi Feng
+Team members are:
+Yiqing Hu,
+Ting Wei and Xinchen Yang
 
-Team leader: Ting Wei
-test
+Team leader is Ting Wei
+
+aaaa
