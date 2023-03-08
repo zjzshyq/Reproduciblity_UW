@@ -1,8 +1,8 @@
 This proj is for Reproducible Research
 
 Team members are:
-Yiqing Hu,
+Xinchen Yang,
 Ting Wei,
-Ludi Feng and Xinchen Yang
+Ludi Feng and Yiqing Hu
 
 Team leader is Ting Wei
